@@ -3,6 +3,14 @@ body {
   padding: 20px;
   background: lightblue;
 }
+.shop-png {
+  margin: 0 auto;
+  padding-left: 10px;
+  top: 10px;
+  left: 12px;
+  width: 120px;
+  border-radius: 85px;
+}
 
 .market-links {
   text-align: left;
